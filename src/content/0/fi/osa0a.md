@@ -37,7 +37,7 @@ Tämän kurssin eri osiin jo tehtyjen palautusten ajankäyttöstatistiikan näet
 
 ### Osat ja suorittaminen
 
-Full Stack –opinnot koostuvat ydinkurssista, sekä useista lisäosista.  Voit suorittaa opinnot 5-14 opintopisteen laajuisena. 
+Full Stack -opinnot koostuvat ydinkurssista, sekä useista lisäosista.  Voit suorittaa opinnot 5-14 opintopisteen laajuisena. 
 
 #### Osat 0-5 (ydinkurssi) - Full Stack -websovelluskehitys (5 op, CSM141081)
 
@@ -143,7 +143,7 @@ Riippumatta siitä, ilmoittaudutko Avoimen yliopiston kurssille ja teetkö kurss
 
 ### Virallisen opintosuoritusotteen tilaaminen
 
-Voit tilata virallisen opintosuoritusotteen heti kun kurssisuorituksesi on rekisteröity (tiedot näkyvät esimerkiksi valtakunnallisessa [Oma Opintopolku](https://opintopolku.fi/oma-opintopolku/) –palvelussa). 
+Voit tilata virallisen opintosuoritusotteen heti kun kurssisuorituksesi on rekisteröity (tiedot näkyvät esimerkiksi valtakunnallisessa [Oma Opintopolku](https://opintopolku.fi/oma-opintopolku/) -palvelussa). 
 
 Ohjeet opintosuoritusotteen tilaamiseen:
 - Kun opintopisteet on rekisteröity sinulle, lähetä opintosuoritteen tilauspyyntö opiskelijaneuvontaan sähköpostiosoitteeseen avoin-student@helsinki.fi.
